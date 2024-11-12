@@ -1,0 +1,1 @@
+ A:\\Área\ de\ trabalho\\Projeto\ LPIII\\carsnap-teste\\carsnap-main\\.dart_tool\\flutter_build\\e684b82272584b4f3457270c2fea76a7\\native_assets.yaml: 
